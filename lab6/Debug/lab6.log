@@ -1,0 +1,14 @@
+﻿  lab6.cpp
+  teste.cpp
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,14): error C2039: 'ostream': is not a member of 'std'
+C:\Users\Calina\source\repos\lab6\lab6\predefined C++ types (compiler internal)(367): message : see declaration of 'std'
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,21): error C2143: syntax error: missing ';' before '&'
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,21): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,41): error C2039: 'ostream': is not a member of 'std'
+C:\Users\Calina\source\repos\lab6\lab6\predefined C++ types (compiler internal)(367): message : see declaration of 'std'
+C:\Users\Calina\source\repos\lab6\lab6\biblioteca.h(22,64): error C2238: unexpected token(s) preceding ';'
+C:\Users\Calina\source\repos\lab6\lab6\teste.cpp(24,2): error C3867: 'Carte::getStatus': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Calina\source\repos\lab6\lab6\teste.cpp(24,2): error C2446: '==': no conversion from 'int' to 'bool (__thiscall Carte::* )(void)'
+C:\Users\Calina\source\repos\lab6\lab6\teste.cpp(24,2): message : There are no conversions from integral values to pointer-to-member values
+  Generating Code...
